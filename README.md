@@ -1,11 +1,11 @@
 # Data-Visualization-Final-project
-# 🎬 Movies Performance Analytics Dashboard
+#  Movies Performance Analytics Dashboard
 
 An interactive Power BI dashboard that transforms raw movie industry data into meaningful business insights through data cleaning, feature engineering, and visual analytics.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed to analyze global movie performance and help identify the genres, directors, actors, and financial patterns associated with commercial and critical success. The dashboard enables users to explore movie performance across multiple dimensions using interactive visualizations and dynamic filters.
 
@@ -19,7 +19,7 @@ The project follows the complete Business Intelligence workflow:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The original dataset consisted of **6 relational tables** containing movie metadata, ratings, genres, cast, crew, and financial information. These tables were transformed into a single analytical dataset optimized for reporting.
 
@@ -114,7 +114,7 @@ The following transformations were performed before dashboard development:
 
 ##  Repository Structure
 
-``text
+text
 Movies-Performance-Analytics/
 │
 ├── Dashboard.pbix
@@ -123,7 +123,7 @@ Movies-Performance-Analytics/
 ├── Executive Summary.pdf
 ├── README.md
 └── Demo.mp4
-``
+
 
 ---
 
