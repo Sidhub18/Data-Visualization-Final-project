@@ -159,6 +159,6 @@ This project was completed collaboratively as part of a Business Intelligence pr
 
 ---
 
-## 📬 Feedback
+##  Feedback
 
 Suggestions and feedback are always welcome. Feel free to open an issue or connect with me to discuss improvements and ideas.
