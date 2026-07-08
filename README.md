@@ -114,7 +114,7 @@ The following transformations were performed before dashboard development:
 
 ##  Repository Structure
 
-text
+``text
 Movies-Performance-Analytics/
 │
 ├── Dashboard.pbix
@@ -123,7 +123,7 @@ Movies-Performance-Analytics/
 ├── Executive Summary.pdf
 ├── README.md
 └── Demo.mp4
-
+``
 
 ---
 
